@@ -24,9 +24,7 @@ Krypton Clean Ram es una herramienta avanzada de optimización y limpieza de mem
 2. Elige entre limpiar RAM, optimizar de forma avanzada o cerrar procesos secundarios.
 3. Disfruta de un sistema más rápido y estable, con notificaciones claras sobre el resultado de cada acción.
 
--------------------------------------------------------------------------------------------------------------------
+---
 
 **Krypton Clean Ram:**
 ¡Potencia, limpieza y tecnología en la palma de tu mano!
-
-![foto](https://github.com/user-attachments/assets/4bae7481-8935-4823-8de0-7fa0ea308957)
